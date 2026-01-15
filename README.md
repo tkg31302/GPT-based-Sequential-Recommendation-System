@@ -257,14 +257,6 @@ Evaluation protocol:
 - [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations](https://arxiv.org/abs/1904.06690)
 
 
-## 🤝 Contributing
-
-This is a research project. Feel free to:
-- Open issues for bugs or questions
-- Submit PRs for improvements
-- Adapt for your own datasets
-
-
 
 
 **Dataset**: Kindle Store reviews from Amazon  
